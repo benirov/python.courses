@@ -1,0 +1,5 @@
+algoritmos
+
+https://www.docsity.com/es/ejercicios-de-algoritmo-para-practicar/7389388/
+
+comando para crear proyecto django : django-admin startproject name
